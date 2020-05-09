@@ -5,6 +5,7 @@ Automation challenge aimed at the company ZUP.
 ## Getting Started
 
 **Step 1** - Open the project in **Visual Studio Code**
+
 **Step 2** - In Terminal, set the Install Package command, to install all dependencies of the Gemfile.
 
 ```
