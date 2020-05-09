@@ -1,0 +1,9 @@
+---
+default: -p bdd -p html -p chrome
+# ci: -p bdd -p chrome -p json
+bdd: --format pretty
+html: --format html --out=log/report.html
+json: --format json --out=log/report.json
+firefox: BROWSER=firefox
+chrome: BROWSER=chrome
+headless: BROWSER=headless
